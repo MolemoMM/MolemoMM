@@ -6,7 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=molemomm&color=brightgreen)
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps). 😎
+- 🔭 Focusing on DevOps  😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 🥅 2025 Goals: Learn Cloud on AWS and Azure.
